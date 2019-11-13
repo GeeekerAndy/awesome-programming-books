@@ -49,7 +49,7 @@
 
 ## 算法与数据结构
 
-*   《[算法（第4版）](https://www.amazon.cn/gp/product/B009OCFQ0O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B009OCFQ0O&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[算法（第4版）](https://algs4.cs.princeton.edu/home/)》
 *   《[算法导论（原书第2版）](https://www.amazon.cn/gp/product/B00AK7BYJY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00AK7BYJY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Python算法教程](https://www.amazon.cn/gp/product/B019NB0VCI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B019NB0VCI&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[算法设计与分析基础（第3版）](https://www.amazon.cn/gp/product/B00S4HCQUI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00S4HCQUI&amp;linkCode=as2&amp;tag=vastwork-23)》
